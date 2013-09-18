@@ -38,4 +38,3 @@ MapFunctions.initMap = function() {
 	 return map;
 };
 
-
